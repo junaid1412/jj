@@ -26,7 +26,7 @@ new TODOs.
 
 Good luck!
 
-## Challenge! (Not Required)
+### Challenge! (Not Required)
 If you finish early and are up for a challenge, try adding delete functionality.
 This should be in the form of a button within each TODO that removes that TODO
 when clicked. 
